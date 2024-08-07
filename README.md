@@ -6,12 +6,12 @@ This project demonstrates how to create and animate mechanical gears in Blender.
 
 ## Gear Specifications
 
-small gears:
-- **Gear A**: 20 teeth, radius 1 m
-- **Gear B**: 20 teeth, radius 1 m
-- **Gear C**: 20 teeth, radius 1 m
-big gear:
-- **Gear D**: 60 teeth, radius 3 m
+- small gears:
+  - **Gear A**: 20 teeth, radius 1 m
+  - **Gear B**: 20 teeth, radius 1 m
+  - **Gear C**: 20 teeth, radius 1 m
+- big gear:
+  - **Gear D**: 60 teeth, radius 3 m
 
 ## Setup Instructions
 
